@@ -5,7 +5,7 @@ draft: true
 ---
 
 ## Lugar de la Reunion
-{{% portfolio image="/esnog28/img/UPC-logo1.png" alt="ESNOG" %}}
+{{% portfolio image="/gore28/img/UPC-logo1.png" alt="ESNOG" %}}
 
 **UPC**
 Edifici Vértex
@@ -19,7 +19,7 @@ Agradecemos a la UPC su aportacion de espacio para la Reunion 28 de ESNOG
 ---------------------------
 ### 9:00 - 9:30 CEST 
 ##### Registro y Bienvenida a  GORE-28
-{{% portfolio image="/esnog28/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+{{% portfolio image="/gore28/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
 Bienvenida a los asistentes e instrucciones sobre la reunion GORE-2
 {{% /portfolio %}}  
@@ -28,7 +28,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion GORE-2
 
 ### 9:30 - 10:00 CEST
 ##### Experimentos APNIC, Joao Damas 
-{{% portfolio image="/esnog28/img/joao-damas-thumb.jpeg" alt="JDAMAS" %}}
+{{% portfolio image="/gore28/img/joao-damas-thumb.jpeg" alt="JDAMAS" %}}
 Abstract
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
@@ -37,7 +37,7 @@ Abstract
 ---------------------------
 
 #### Mi red de gestión ideal, Carlos Fraga
-{{% portfolio image="/esnog28/img/Carlos-fraga-small.jpg" alt="CFRAGA" %}}
+{{% portfolio image="/gore28/img/Carlos-fraga-small.jpg" alt="CFRAGA" %}}
 Abstract
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
@@ -48,14 +48,14 @@ Abstract
 
 ### 11:00-11:30  
 #### Café
-{{% portfolio image="/esnog28/img/cup-of-coffee-icon-59-small.png" alt="coffee" %}}
+{{% portfolio image="/gore28/img/cup-of-coffee-icon-59-small.png" alt="coffee" %}}
 {{% /portfolio %}} 
 
 ---------------------------
 
 ### 11:30 - 13:30 CEST     
 #### RARE (Plataforma de routing software), Frédéric Loui (RENATER) 
-{{% portfolio image="/esnog28/img/esnog-logo-small.jpg" alt="RENATER" %}}
+{{% portfolio image="/gore28/img/esnog-logo-small.jpg" alt="RENATER" %}}
 RARE: Router for Academia, Research & Education 
 Abstract
 
@@ -64,7 +64,7 @@ Abstract
 {{% /portfolio %}}  
 
 #### Digital Twin Network: Construyendo un gemelo digital de la red, Pere Barlet, UPC
-{{% portfolio image="/esnog28/img/esnog-logo-small.jpg" alt="UPC" %}}
+{{% portfolio image="/gore28/img/esnog-logo-small.jpg" alt="UPC" %}}
 Abstract
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
@@ -74,7 +74,7 @@ Abstract
 
 ### 13:30 - 14:30 CEST 
 #### Comida
-{{% portfolio image="/esnog28/img/lunch-icon-small.png" alt="lunch" %}}
+{{% portfolio image="/gore28/img/lunch-icon-small.png" alt="lunch" %}}
 {{% /portfolio %}} 
 
 
@@ -82,14 +82,14 @@ Abstract
 
 ### 14:30 - 16:00 CEST
 #### Debate: Extensión de nivel 2: GRE, VXLAN, ni muerto…
-{{% portfolio image="/esnog28/img/esnog-logo-small.jpg" alt="JPC1" %}}
+{{% portfolio image="/gore28/img/esnog-logo-small.jpg" alt="JPC1" %}}
 Panel de discusion
 
 *PRESENTACION NO DISPONIBLE AUN*
 {{% /portfolio %}}  
 
 #### RIPE ATLAS: Cómo funcionan las sondas por SW?, Agustín Formoso, RIPE-NCC
-{{% portfolio image="/esnog28/img/RIPE_NCC_logo.png" alt="RIPE2" %}}
+{{% portfolio image="/gore28/img/RIPE_NCC_logo.png" alt="RIPE2" %}}
 Abstract
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
@@ -97,12 +97,12 @@ Abstract
 
 ### 16:00 - 16:30  CEST
 #### Café
-{{% portfolio image="/esnog28/img/cup-of-coffee-icon-59-small.png" alt="coffee" %}}
+{{% portfolio image="/gore28/img/cup-of-coffee-icon-59-small.png" alt="coffee" %}}
 {{% /portfolio %}} 
 
 ### 16:30 - 18:00 CEST 
 #### Taller RIPE Atlas (RIPE Atlas hands-on session), Agustín Formoso, RIPE NCC
-{{% portfolio image="/esnog28/img/RIPE_NCC_logo.png" alt="RIPE2" %}}
+{{% portfolio image="/gore28/img/RIPE_NCC_logo.png" alt="RIPE2" %}}
 Abstract 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
@@ -122,7 +122,7 @@ Abstract
 
 ### 9:30 - 11:00 CEST 
 #### Ronda de charlas de Puntos de intercambio de trafico (IXPs) 
-{{% portfolio image="/esnog28/img/IX-talkers.jpg" alt="IXTALK" %}}
+{{% portfolio image="/gore28/img/IX-talkers.jpg" alt="IXTALK" %}}
 Actualizaciones de los puntos neutros españoles (5 min. cada uno):
 - Maria Isabel Gandia (CATNIX) ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
 - Javier Achirica (ESPANIX) ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
@@ -133,28 +133,28 @@ Actualizaciones de los puntos neutros españoles (5 min. cada uno):
 
 ### 11:00 - 11:30 CEST
 #### Café
-{{% portfolio image="/esnog28/img/cup-of-coffee-icon-59-small.png" alt="coffee" %}}
+{{% portfolio image="/gore28/img/cup-of-coffee-icon-59-small.png" alt="coffee" %}}
 {{% /portfolio %}} 
 
 ---------------------------
 
 ### 11:30 - 13:00 CEST     
 #### Vyos (software routers): Arquitectura y casos de uso
-{{% portfolio image="/esnog28/img/esnog-logo-small.jpg" alt="RIPE2" %}}
+{{% portfolio image="/gore28/img/esnog-logo-small.jpg" alt="RIPE2" %}}
 Abstract
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
 {{% /portfolio %}}  
 
 #### Soluciones ópticas para la última milla, Amedeo Beck-Peccoz
-{{% portfolio image="/esnog28/img/Amedeo_beck_FULL.jpg" alt="Amedeo" %}}
+{{% portfolio image="/gore28/img/Amedeo_beck_FULL.jpg" alt="Amedeo" %}}
 Abstract
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
 {{% /portfolio %}}  
 
 #### Measuring RPKI ROV adoption with NetFlow, Doug Madory 
-{{% portfolio image="/esnog28/img/DougMadory_FULL.jpg" alt="DMadory" %}}
+{{% portfolio image="/gore28/img/DougMadory_FULL.jpg" alt="DMadory" %}}
 Abstract
 
 *Charla en inglés*
