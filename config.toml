@@ -1,0 +1,94 @@
+baseurl = "http://jpcerezo.info/esnog27" # Hostname (and path) to the root.
+title = "ESNOG/GORE Reunion 27" # Site title.
+theme = "coder-portfolio" # Set the theme.
+languagecode = "es" # The site’s language code used to generate RSS.
+defaultcontentlanguage = "es" # The default content language.
+
+paginate = 20 # Default number of pages per page in pagination.
+
+pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
+pygmentscodefences = true # Enable code fence background highlighting.
+pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
+pygmentsUseClasses = true # new add
+
+#disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
+
+[params] # theme parameters
+    author = "" # Author's name.
+    info = "Reunion no. 27 del Grupo de Operadores de Red Español (ESNOG)" # Author's job title or info.
+    description = "GORE 27 website" # Site description.
+    keywords = "esnog,gore27,internet" # Site keywords.
+    #avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
+    avatarurl = "img/esnog27.png" 
+
+    footercontent = "Accede a mas detalles del evento en las entradas del menu superior" # Add footer content
+    fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
+    fixedbarContentAfter = "Gracias por tu interes. Compartelo si te gusta →" # Add fixedbar content after click
+
+    # Whether you want to hide copyright and credits in the footer.
+    hideCredits = false
+    hideCopyright = false
+
+    # Custom CSS
+    custom_css = []
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    # Bottom sns share
+    snsShare = true # new add
+    # Popular sns share
+    # if you want add sns. please message!
+    enableTwitterShare = true  # new add
+    enableFacebookShare = false # new add
+    enableHatenaShare = false   # new add
+    enableLineShare = false     # new add
+    enableLinkedInShare = true # new add
+
+    thumbnail = "img/esnog26.png" # default sns thumbnail
+
+    # Multilanguage mode
+    langseparator = "|" # Separates menus from language selectors when site is multilingual.
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/esnog/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    weight = 2
+    url = "https://twitter.com/esnog1/"
+#[[params.social]]
+#    name = "LinkedIn"
+#    icon = "fab fa-linkedin"
+#    weight = 3
+#    url = "https://www.linkedin.com/in/naro143/"
+[[params.social]]
+    # If icon is not set, Text is displayed.
+    name = "Slack"
+    weight = 4
+    url = "https://esnog.slack.com/"
+
+# Menu links
+[[menu.main]]
+    name = "Agenda"
+    weight = 1
+    url  = "agenda"
+[[menu.main]]
+    name = "Detalles y Registro"
+    weight = 2
+    url  = "posts"
+[[menu.main]]
+    name = "Acerca de ESNOG"
+    weight = 4
+    url = "about"
+#[[menu.main]]
+#    name = "Registro"
+#    weight = 3
+#    url = "posts/registro"

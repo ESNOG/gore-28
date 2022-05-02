@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ESNOG/GORE Reunion 27</title>
+    <link>http://jpcerezo.info/esnog27/posts/</link>
+    <description>Recent content in Posts on ESNOG/GORE Reunion 27</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://jpcerezo.info/esnog27/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enlace a la reunion GORE27</title>
+      <link>http://jpcerezo.info/esnog27/posts/gore27-link/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://jpcerezo.info/esnog27/posts/gore27-link/</guid>
+      <description>La reunión GORE27 el dia 16 de Noviembre de 2021 será presencial con aforo limitado, y podrá seguirse tambien a traves de Zoom Events y streaming por Youtube.
+El enlace para seguimiento en remoto se hará publico pocos dias antes de la reunión. (Se recomienda actualizar a la ultima versión de la aplicación Zoom antes de la reunión)
+El streaming de las sesiones a traves del canal de ESNOG en YouTube se podra seguir por AQUI.</description>
+    </item>
+    
+  </channel>
+</rss>
