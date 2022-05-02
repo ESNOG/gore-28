@@ -1,117 +1,166 @@
 ---
-title: "Agenda ESNOG 27"
+title: "Agenda ESNOG 28"
 date: 2021-11-11
 draft: true 
 ---
 
 ## Lugar de la Reunion
-{{% portfolio image="/esnog27/img/medialab-logo@2x_FULL.jpg" alt="ESNOG" %}}
+{{% portfolio image="/esnog28/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-https://www.medialab-matadero.es
+**UPC**
+Edifici Vértex
+Plaça d’Eusebi Güell, 6, 08034 Barcelona
 
-Agradecemos a Medialab Matadero su aportacion de espacio para la Reunion 27 de ESNOG
+Agradecemos a la UPC su aportacion de espacio para la Reunion 28 de ESNOG
 
 {{% /portfolio %}} 
 
-
-## Dia 16, Noviembre de 2021
+## Dia 12 de mayo de 2022
 ---------------------------
-### 9:30 CET 
-##### Bienvenida a  GORE-27
-{{% portfolio image="/esnog27/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+### 9:00 - 9:30 CEST 
+##### Registro y Bienvenida a  GORE-28
+{{% portfolio image="/esnog28/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-Bienvenida a los asistentes e instrucciones sobre la reunion GORE-27
+Bienvenida a los asistentes e instrucciones sobre la reunion GORE-2
 {{% /portfolio %}}  
 
 ---------------------------
 
-### 10:00 CET
-##### Christian Adell (NetworkToCode): Dancing with System of Records 
-{{% portfolio image="/esnog27/img/ChristianAdell_FULL.jpg" alt="CHADELL" %}}
-Presentación sobre Diffsync y nautobot 
+### 9:30 - 10:00 CEST
+##### Experimentos APNIC, Joao Damas 
+{{% portfolio image="/esnog28/img/joao-damas-thumb.jpeg" alt="JDAMAS" %}}
+Abstract
 
-([PRESENTACION](/esnog27/archivos/ESNOG27-CHADELL.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
 {{% /portfolio %}}  
 
 ---------------------------
 
-### 10:30 CET
-##### Maria Isabel Gandia (CSUC): Network Automation - e-academy 
-{{% portfolio image="/esnog27/img/MariaIsabelGandia_FULL.png" alt="MIGANDIA" %}}
-La Orquestación, la automatización y la virtualización son cada vez más importantes para los desafíos a los que se enfrentan los operadores de redes, cuyos usuarios exigen autoservicio en una plataforma digital. No se trata de reemplazar lo que se hacía manualmente con lo mismo automatizado, es un cambio de mentalidad que nos afecta a todos. Para ayudar a los ingenieros de red en el proceso de aprendizaje de técnicas de automatización, el proyecto GÉANT ha creado la Network Automation e-Academy, de acceso gratuito y con cápsulas sobre distintos temas, desde formatos, protocolos y lenguajes a ejemplos de casos del mundo académico, que se van publicando regularmente en la e-Academy (https://e-academy.geant.org/).
+#### Mi red de gestión ideal, Carlos Fraga
+{{% portfolio image="/esnog28/img/Carlos-fraga-small.jpg" alt="CFRAGA" %}}
+Abstract
 
-([PRESENTACION](/esnog27/archivos/ESNOG27-Network_Automation_e-Academy.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+
 {{% /portfolio %}}  
 
 ---------------------------
 
-### 12:00 CET
-##### Javier Achirica: ESPANIX Update
-{{% portfolio image="/esnog27/img/JavierAchirica_FULL.jpg" alt="Achirica" %}}
-Actiualizacion sobre el estado de EspaNIX.
-
-
-*PRESENTACION NO DISPONIBLE AUN*
-{{% /portfolio %}}  
-
----------------------------
-
-### 12:30 CET
-##### Amedeo Beck Peccoz: BGP (Full Routing Table) con equipos de bajo coste
-{{% portfolio image="/esnog27/img/Amedeo_beck_FULL.jpg" alt="Amedeo" %}}
-En determinadas circunstancias es posible levantar sesiones  BGP con toda la tabla de enrutamiento y emplear equipos más pequeños que, en su origen, no fueron pensado para este uso. 
-En este laboratorio vamos a descubrir cuáles son los casos más comunes y cómo se hace.
-
-
-([PRESENTACION](/esnog27/archivos/ESNOG27-Amedeo-Beck-Peccoz.pdf))
-{{% /portfolio %}}  
-
----------------------------
-
-### 15:00 CET
-##### Maria Isabel Gandia (CSUC): Cambio de Arquitectura de CATNIX 
-{{% portfolio image="/esnog27/img/MariaIsabelGandia_FULL.png" alt="MIGANDIA" %}}
-CATNIX ha actualizado recientemente su infraestructura y ha cambiado la arquitectura, pasando de una red de nivel 2 a un plano de control basado en BGP EVPN y un plano de datos con VXLAN. Tener un fabric IP entre nodos permite aumentar la escalabilidad y la redundancia, evitando las problemáticas del uso de STP. También se ha pasado a ECMP en los enlaces entre nodos, sustituyendo a LACP.
-
-([PRESENTACION](/esnog27/archivos/ESNOG27-CATNIX-Arquitectura-definitiva.pdf))
-{{% /portfolio %}}  
-
----------------------------
-
-### 15:30 CET
-##### Suzanne Taylor (RIPE NCC): The Internet Landscape in Spain as Seen by the RIPE NCC
-{{% portfolio image="/esnog27/img/staylor_ripe_FULL.jpg" alt="STAYLOR" %}}
-
-In this talk, I’ll present some highlights from the RIPE NCC Internet Country Report: Mediterranean Europe with a particular focus on Spain.
-I’ll share some data and insights on Internet number resource allocation and growth, connections between domestic networks, international connectivity, access to the domain name system and routing security in the country, along with its capacity for future growth. These insights are based largely on measurements collected by the RIPE NCC’s RIPE Atlas and RIS platforms.
-
-([Enlace al informe completo](https://labs.ripe.net/documents/166/Mediterranean_country_report_English_final.pdf))
-
-**Atención: Esta charla será en ingles**
-
-([PRESENTACION](/esnog27/archivos/ESNOG27-RIPE-NCC.pdf))
+### 11:00-11:30  
+#### Café
+{{% portfolio image="/esnog28/img/cup-of-coffee-icon-59-small.png" alt="coffee" %}}
 {{% /portfolio %}} 
 
 ---------------------------
 
-### 16:00 CET
-##### Borja Marcos -  El Pajaro Carpintero
-{{% portfolio image="/esnog27/img/borja-marcos_FULL.jpg" alt="BORJA" %}}
-Whatever it means...
+### 11:30 - 13:30 CEST     
+#### RARE (Plataforma de routing software), Frédéric Loui (RENATER) 
+{{% portfolio image="/esnog28/img/esnog-logo-small.jpg" alt="RENATER" %}}
+RARE: Router for Academia, Research & Education 
+Abstract
 
-*PRESENTACION NO DISPONIBLE AUN*
+*Charla en inglés*
+([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+{{% /portfolio %}}  
+
+#### Digital Twin Network: Construyendo un gemelo digital de la red, Pere Barlet, UPC
+{{% portfolio image="/esnog28/img/esnog-logo-small.jpg" alt="UPC" %}}
+Abstract
+
+([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
 {{% /portfolio %}}  
 
 ---------------------------
 
-### 16:30 CET
-##### Panel: NAT vs IPv6 (moderado por Joao Damas)
-{{% portfolio image="/esnog27/img/esnog-logo-small.jpg" alt="JPC1" %}}
-Discusion colaborativa sobre el antagonismo de siempre: NAT vs IPv6
+### 13:30 - 14:30 CEST 
+#### Comida
+{{% portfolio image="/esnog28/img/lunch-icon-small.png" alt="lunch" %}}
+{{% /portfolio %}} 
+
+
+---------------------------
+
+### 14:30 - 16:00 CEST
+#### Debate: Extensión de nivel 2: GRE, VXLAN, ni muerto…
+{{% portfolio image="/esnog28/img/esnog-logo-small.jpg" alt="JPC1" %}}
+Panel de discusion
 
 *PRESENTACION NO DISPONIBLE AUN*
 {{% /portfolio %}}  
 
+#### RIPE ATLAS: Cómo funcionan las sondas por SW?, Agustín Formoso, RIPE-NCC
+{{% portfolio image="/esnog28/img/RIPE_NCC_logo.png" alt="RIPE2" %}}
+Abstract
+
+([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+{{% /portfolio %}}  
+
+### 16:00 - 16:30  CEST
+#### Café
+{{% portfolio image="/esnog28/img/cup-of-coffee-icon-59-small.png" alt="coffee" %}}
+{{% /portfolio %}} 
+
+### 16:30 - 18:00 CEST 
+#### Taller RIPE Atlas (RIPE Atlas hands-on session), Agustín Formoso, RIPE NCC
+{{% portfolio image="/esnog28/img/RIPE_NCC_logo.png" alt="RIPE2" %}}
+Abstract 
+
+([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+{{% /portfolio %}}  
+ 
+#### Pre-evento social
+ 
+### 21:00 -  CEST
+#### Evento Social 
+
 ---------------------------
 
+## Dia 13 de Mayo de 2022
 
+### 9:00 - 9:30 CEST
+#### Registro y Bienvenida
+
+### 9:30 - 11:00 CEST 
+#### Ronda de charlas de Puntos de intercambio de trafico (IXPs) 
+{{% portfolio image="/esnog28/img/IX-talkers.jpg" alt="IXTALK" %}}
+Actualizaciones de los puntos neutros españoles (5 min. cada uno):
+- Maria Isabel Gandia (CATNIX) ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+- Javier Achirica (ESPANIX) ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+- Marcos Sanz (DECIX) ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+{{% /portfolio %}}  
+
+---------------------------
+
+### 11:00 - 11:30 CEST
+#### Café
+{{% portfolio image="/esnog28/img/cup-of-coffee-icon-59-small.png" alt="coffee" %}}
+{{% /portfolio %}} 
+
+---------------------------
+
+### 11:30 - 13:00 CEST     
+#### Vyos (software routers): Arquitectura y casos de uso
+{{% portfolio image="/esnog28/img/esnog-logo-small.jpg" alt="RIPE2" %}}
+Abstract
+
+([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+{{% /portfolio %}}  
+
+#### Soluciones ópticas para la última milla, Amedeo Beck-Peccoz
+{{% portfolio image="/esnog28/img/Amedeo_beck_FULL.jpg" alt="Amedeo" %}}
+Abstract
+
+([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+{{% /portfolio %}}  
+
+#### Measuring RPKI ROV adoption with NetFlow, Doug Madory 
+{{% portfolio image="/esnog28/img/DougMadory_FULL.jpg" alt="DMadory" %}}
+Abstract
+
+*Charla en inglés*
+([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+{{% /portfolio %}}  
+
+#### A.O.B. y Concurso
+
+---------------------------

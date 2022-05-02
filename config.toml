@@ -1,5 +1,5 @@
-baseurl = "http://jpcerezo.info/esnog27" # Hostname (and path) to the root.
-title = "ESNOG/GORE Reunion 27" # Site title.
+baseurl = "http://esnog.net/esnog28" # Hostname (and path) to the root.
+title = "ESNOG/GORE Reunion 28" # Site title.
 theme = "coder-portfolio" # Set the theme.
 languagecode = "es" # The site’s language code used to generate RSS.
 defaultcontentlanguage = "es" # The default content language.
@@ -15,11 +15,11 @@ pygmentsUseClasses = true # new add
 
 [params] # theme parameters
     author = "" # Author's name.
-    info = "Reunion no. 27 del Grupo de Operadores de Red Español (ESNOG)" # Author's job title or info.
-    description = "GORE 27 website" # Site description.
-    keywords = "esnog,gore27,internet" # Site keywords.
+    info = "Reunion no. 28 del Grupo de Operadores de Red Español (ESNOG)" # Author's job title or info.
+    description = "GORE 28 website" # Site description.
+    keywords = "esnog,gore28,internet" # Site keywords.
     #avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
-    avatarurl = "img/esnog27.png" 
+    avatarurl = "img/esnog-28-altxcf.png" 
 
     footercontent = "Accede a mas detalles del evento en las entradas del menu superior" # Add footer content
     fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
@@ -48,7 +48,7 @@ pygmentsUseClasses = true # new add
     enableLineShare = false     # new add
     enableLinkedInShare = true # new add
 
-    thumbnail = "img/esnog26.png" # default sns thumbnail
+    thumbnail = "img/esnog-28-altxcf.png" # default sns thumbnail
 
     # Multilanguage mode
     langseparator = "|" # Separates menus from language selectors when site is multilingual.

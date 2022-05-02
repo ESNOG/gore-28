@@ -1,133 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>http://jpcerezo.info/esnog27/posts/gore27-link/</loc>
+    <loc>http://localhost:1313/esnog28/agenda/</loc>
+    <lastmod>2021-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/posts/gore28-link/</loc>
     <lastmod>2021-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/</loc>
     <lastmod>2021-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/posts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/posts/</loc>
     <lastmod>2021-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/pots/open-nti-new/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/posts/registro/</loc>
+    <lastmod>2021-10-02T11:47:13+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/pots/open-nti-new/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/pots/open-nti-new/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/pots/open-nti-new/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/pots/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/pots/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/pots/featuresofcoderportfolio.ja/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/pots/featuresofcoderportfolio.ja/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/pots/featuresofcoderportfolio/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/pots/featuresofcoderportfolio/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/pots/theme-demo/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/pots/theme-demo/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/pots/theme-demo.ja/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/pots/theme-demo.ja/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/pots/creating-a-new-theme/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/pots/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/pots/hugo-template-primer/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/pots/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/categories/development/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/tags/development/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/pots/hugoisforlovers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/pots/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/tags/go/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/tags/golang/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/categories/golang/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/tags/hugo/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/tags/templates/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/tags/themes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/pots/migrate-from-jekyll/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/pots/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/esnog28/contact/</loc>
   </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/about/</loc>
-  </url>
-  
-  <url>
-    <loc>http://jpcerezo.info/esnog27/contact/</loc>
-  </url>
-  
 </urlset>

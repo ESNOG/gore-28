@@ -1,52 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ESNOG/GORE Reunion 27</title>
-    <link>http://jpcerezo.info/esnog27/</link>
-    <description>Recent content on ESNOG/GORE Reunion 27</description>
+    <title>ESNOG/GORE Reunion 28</title>
+    <link>http://localhost:1313/esnog28/</link>
+    <description>Recent content on ESNOG/GORE Reunion 28</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://jpcerezo.info/esnog27/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/esnog28/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agenda ESNOG 28</title>
+      <link>http://localhost:1313/esnog28/agenda/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/esnog28/agenda/</guid>
+      <description>Lugar de la Reunion  UPC Edifici Vértex Plaça d’Eusebi Güell, 6, 08034 Barcelona
+Agradecemos a la UPC su aportacion de espacio para la Reunion 28 de ESNOG
+   Dia 12 de mayo de 2022  9:00 - 9:30 CEST Registro y Bienvenida a GORE-28  Bienvenida a los asistentes e instrucciones sobre la reunion GORE-2
+    9:30 - 10:00 CEST Experimentos APNIC, Joao Damas  Abstract</description>
+    </item>
     
     <item>
-      <title>Enlace a la reunion GORE27</title>
-      <link>http://jpcerezo.info/esnog27/posts/gore27-link/</link>
+      <title>Enlace a la reunion GORE28</title>
+      <link>http://localhost:1313/esnog28/posts/gore28-link/</link>
       <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://jpcerezo.info/esnog27/posts/gore27-link/</guid>
-      <description>La reunión GORE27 el dia 16 de Noviembre de 2021 será presencial con aforo limitado, y podrá seguirse tambien a traves de Zoom Events y streaming por Youtube.
+      <guid>http://localhost:1313/esnog28/posts/gore28-link/</guid>
+      <description>La reunión GORE28 el dia 16 de Noviembre de 2021 será presencial con aforo limitado, y podrá seguirse tambien a traves de Zoom Events y streaming por Youtube.
 El enlace para seguimiento en remoto se hará publico pocos dias antes de la reunión. (Se recomienda actualizar a la ultima versión de la aplicación Zoom antes de la reunión)
 El streaming de las sesiones a traves del canal de ESNOG en YouTube se podra seguir por AQUI.</description>
     </item>
     
     <item>
+      <title>Registro en GORE-28</title>
+      <link>http://localhost:1313/esnog28/posts/registro/</link>
+      <pubDate>Sat, 02 Oct 2021 11:47:13 +0200</pubDate>
+      
+      <guid>http://localhost:1313/esnog28/posts/registro/</guid>
+      <description>Registro El registro para asistir a la reunión GORE-28 de ESNOG se hace a través de este enlace:
+https://www.eventbrite.es/e/registro-esnog-28-317437964497
+La dirección de correo electrónico que indiques se usará para avisos y notificaciones sobre la reunión, aunque te recomendamos que te des de alta en la lista de correo de ESNOG.
+También puedes utilizar el Slack de ESNOG para estar al día en todas las novedades sobre este evento, y sobre ESNOG en general.</description>
+    </item>
+    
+    <item>
       <title>open-nti-new: vagando por las lindes de la telemetria</title>
-      <link>http://jpcerezo.info/esnog27/pots/open-nti-new/</link>
+      <link>http://localhost:1313/esnog28/pots/open-nti-new/</link>
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://jpcerezo.info/esnog27/pots/open-nti-new/</guid>
+      <guid>http://localhost:1313/esnog28/pots/open-nti-new/</guid>
       <description>OPEN-NTI-NEW: vagando por las lindes de la telemetria&amp;hellip; </description>
     </item>
     
     <item>
       <title>open-nti-new: vagando por las lindes de la telemetria</title>
-      <link>http://jpcerezo.info/esnog27/pots/open-nti-new/</link>
+      <link>http://localhost:1313/esnog28/pots/open-nti-new/</link>
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://jpcerezo.info/esnog27/pots/open-nti-new/</guid>
+      <guid>http://localhost:1313/esnog28/pots/open-nti-new/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>CoderPortfolioの特徴</title>
-      <link>http://jpcerezo.info/esnog27/pots/featuresofcoderportfolio.ja/</link>
+      <link>http://localhost:1313/esnog28/pots/featuresofcoderportfolio.ja/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://jpcerezo.info/esnog27/pots/featuresofcoderportfolio.ja/</guid>
+      <guid>http://localhost:1313/esnog28/pots/featuresofcoderportfolio.ja/</guid>
       <description>変更点 ShortCode &amp;ldquo;private content&amp;quot;を追加しました 綺麗なサイトを崩さずに、あなたの個人的なコンテンツ（趣味や感情）を簡単に伝えることができます。
 実際の動きについては、&amp;ldquo;テーマデモ&amp;quot;をご覧ください。
 リンクに赤い下線のアニメーションを追加しました サイトがよりカラフルに美しくなりました。
@@ -59,10 +79,10 @@ ShortCode &amp;ldquo;portfolio&amp;quot;を追加しました あなたの作品
     
     <item>
       <title>Features Of CoderPortfolio</title>
-      <link>http://jpcerezo.info/esnog27/pots/featuresofcoderportfolio/</link>
+      <link>http://localhost:1313/esnog28/pots/featuresofcoderportfolio/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://jpcerezo.info/esnog27/pots/featuresofcoderportfolio/</guid>
+      <guid>http://localhost:1313/esnog28/pots/featuresofcoderportfolio/</guid>
       <description>Change Point &amp;ldquo;private content&amp;rdquo; short code added. It is now possible to communicate your personal hobby and your own content.
 You can use it easily. Please see &amp;ldquo;theme-demo&amp;rdquo; for details and demo.
 An animation of red underline was added to Anchor. The site became a little fun and colorful.
@@ -72,10 +92,10 @@ Changed the color scheme of code highlight.</description>
     
     <item>
       <title>Theme Demo</title>
-      <link>http://jpcerezo.info/esnog27/pots/theme-demo/</link>
+      <link>http://localhost:1313/esnog28/pots/theme-demo/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://jpcerezo.info/esnog27/pots/theme-demo/</guid>
+      <guid>http://localhost:1313/esnog28/pots/theme-demo/</guid>
       <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
 This is bold text
 This is italic text
@@ -88,10 +108,10 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
     
     <item>
       <title>テーマデモ</title>
-      <link>http://jpcerezo.info/esnog27/pots/theme-demo.ja/</link>
+      <link>http://localhost:1313/esnog28/pots/theme-demo.ja/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://jpcerezo.info/esnog27/pots/theme-demo.ja/</guid>
+      <guid>http://localhost:1313/esnog28/pots/theme-demo.ja/</guid>
       <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
 This is bold text
 This is italic text
@@ -104,30 +124,30 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
     
     <item>
       <title>Creating a New Theme</title>
-      <link>http://jpcerezo.info/esnog27/pots/creating-a-new-theme/</link>
+      <link>http://localhost:1313/esnog28/pots/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://jpcerezo.info/esnog27/pots/creating-a-new-theme/</guid>
+      <guid>http://localhost:1313/esnog28/pots/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>http://jpcerezo.info/esnog27/pots/hugo-template-primer/</link>
+      <link>http://localhost:1313/esnog28/pots/hugo-template-primer/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://jpcerezo.info/esnog27/pots/hugo-template-primer/</guid>
+      <guid>http://localhost:1313/esnog28/pots/hugo-template-primer/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>http://jpcerezo.info/esnog27/pots/hugoisforlovers/</link>
+      <link>http://localhost:1313/esnog28/pots/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://jpcerezo.info/esnog27/pots/hugoisforlovers/</guid>
+      <guid>http://localhost:1313/esnog28/pots/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
@@ -138,10 +158,10 @@ Follow the following steps:
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>http://jpcerezo.info/esnog27/pots/migrate-from-jekyll/</link>
+      <link>http://localhost:1313/esnog28/pots/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://jpcerezo.info/esnog27/pots/migrate-from-jekyll/</guid>
+      <guid>http://localhost:1313/esnog28/pots/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -149,20 +169,20 @@ Follow the following steps:
     
     <item>
       <title>About ESNOG</title>
-      <link>http://jpcerezo.info/esnog27/about/</link>
+      <link>http://localhost:1313/esnog28/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jpcerezo.info/esnog27/about/</guid>
+      <guid>http://localhost:1313/esnog28/about/</guid>
       <description>ESNOG es un foro abierto para el intercambio de información técnica, experiencias operacionales y conocimientos de ingeniería relacionados con los servicios de infraestructura de Internet con el objetivo de mejorar el intercambio de experiencias e información entre ingenieros además de aumentar la colaboración y la coordinacion entre redes en España.
  Mas información: https://www.esnog.net/about/</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://jpcerezo.info/esnog27/contact/</link>
+      <link>http://localhost:1313/esnog28/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jpcerezo.info/esnog27/contact/</guid>
+      <guid>http://localhost:1313/esnog28/contact/</guid>
       <description>¿Quieres contactar o participar? Puedes unirte a la comunidad ESNOG a través de la lista de correo de ESNOG, o bién contactándonos en Twitter.
  </description>
     </item>

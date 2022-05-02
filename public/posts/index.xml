@@ -1,25 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ESNOG/GORE Reunion 27</title>
-    <link>http://jpcerezo.info/esnog27/posts/</link>
-    <description>Recent content in Posts on ESNOG/GORE Reunion 27</description>
+    <title>Posts on ESNOG/GORE Reunion 28</title>
+    <link>http://localhost:1313/esnog28/posts/</link>
+    <description>Recent content in Posts on ESNOG/GORE Reunion 28</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://jpcerezo.info/esnog27/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/esnog28/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Enlace a la reunion GORE27</title>
-      <link>http://jpcerezo.info/esnog27/posts/gore27-link/</link>
+      <title>Enlace a la reunion GORE28</title>
+      <link>http://localhost:1313/esnog28/posts/gore28-link/</link>
       <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://jpcerezo.info/esnog27/posts/gore27-link/</guid>
-      <description>La reunión GORE27 el dia 16 de Noviembre de 2021 será presencial con aforo limitado, y podrá seguirse tambien a traves de Zoom Events y streaming por Youtube.
+      <guid>http://localhost:1313/esnog28/posts/gore28-link/</guid>
+      <description>La reunión GORE28 el dia 16 de Noviembre de 2021 será presencial con aforo limitado, y podrá seguirse tambien a traves de Zoom Events y streaming por Youtube.
 El enlace para seguimiento en remoto se hará publico pocos dias antes de la reunión. (Se recomienda actualizar a la ultima versión de la aplicación Zoom antes de la reunión)
 El streaming de las sesiones a traves del canal de ESNOG en YouTube se podra seguir por AQUI.</description>
+    </item>
+    
+    <item>
+      <title>Registro en GORE-28</title>
+      <link>http://localhost:1313/esnog28/posts/registro/</link>
+      <pubDate>Sat, 02 Oct 2021 11:47:13 +0200</pubDate>
+      
+      <guid>http://localhost:1313/esnog28/posts/registro/</guid>
+      <description>Registro El registro para asistir a la reunión GORE-28 de ESNOG se hace a través de este enlace:
+https://www.eventbrite.es/e/registro-esnog-28-317437964497
+La dirección de correo electrónico que indiques se usará para avisos y notificaciones sobre la reunión, aunque te recomendamos que te des de alta en la lista de correo de ESNOG.
+También puedes utilizar el Slack de ESNOG para estar al día en todas las novedades sobre este evento, y sobre ESNOG en general.</description>
     </item>
     
   </channel>
