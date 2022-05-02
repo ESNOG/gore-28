@@ -1,4 +1,4 @@
-baseurl = "http://esnog.net/esnog28" # Hostname (and path) to the root.
+baseurl = "https://esnog.net/gore28" # Hostname (and path) to the root.
 title = "ESNOG/GORE Reunion 28" # Site title.
 theme = "coder-portfolio" # Set the theme.
 languagecode = "es" # The site’s language code used to generate RSS.
