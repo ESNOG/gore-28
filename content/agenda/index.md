@@ -5,7 +5,7 @@ draft: true
 ---
 
 ## Lugar de la Reunion
-{{% portfolio image="/esnog28/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+{{% portfolio image="/esnog28/img/UPC-logo1.png" alt="ESNOG" %}}
 
 **UPC**
 Edifici Vértex
