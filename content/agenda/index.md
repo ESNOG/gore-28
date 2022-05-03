@@ -67,7 +67,7 @@ Abstract
 {{% /portfolio %}}  
 
 #### Digital Twin Network: Construyendo un gemelo digital de la red, Pere Barlet (UPC)
-{{% portfolio image="/gore28/img/esnog-logo-small.jpg" alt="UPC" %}}
+{{% portfolio image="/gore28/img/pere_barlet_upc.jpeg" alt="UPC" %}}
 Abstract
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
@@ -94,30 +94,32 @@ Panel de discusion
 {{% /portfolio %}}  
 
 #### RIPE ATLAS: Cómo funcionan las sondas por SW?, Agustín Formoso (RIPE-NCC)
-{{% portfolio image="/gore28/img/RIPE_NCC_logo.png" alt="RIPE2" %}}
+{{% portfolio image="/gore28/img/agustin-formoso-small.jpg" alt="RIPE2" %}}
 Abstract
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
 {{% /portfolio %}}  
+<img class="special-img-class" src="/img/RIPE_NCC_logo.png"/>
 
 ### 16:00 - 16:30  CEST
 {{% portfolio image="/gore28/img/cup-of-coffee-icon-59-small.png" alt="coffee" %}}
-Pausa para Café (patrocinada por ESPANIX)
+Pausa para Café _(patrocinada por ESPANIX)_
 {{% /portfolio %}} 
 
 ### 16:30 - 18:00 CEST 
 #### Taller RIPE Atlas (RIPE Atlas hands-on session), Agustín Formoso (RIPE-NCC)
-{{% portfolio image="/gore28/img/RIPE_NCC_logo.png" alt="RIPE2" %}}
+{{% portfolio image="/gore28/img/agustin-formoso-small.jpg" alt="RIPE2" %}}
 Abstract 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
 {{% /portfolio %}}  
- 
+<img src="gore28/img/RIPE_NCC_logo.png" alt="demo" class="img-responsive">
+
 #### Pre-evento social
  
 ### 21:00 -  CEST
 {{% portfolio image="/gore28/img/party01-icon.png" alt="coffee" %}}
-**EVENTO SOCIAL** (patrocinada por ??????)
+**EVENTO SOCIAL** 
 {{% /portfolio %}} 
 
 ---------------------------
