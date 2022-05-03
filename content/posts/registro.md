@@ -1,6 +1,6 @@
 ---
 title: "Registro en GORE-28"
-date: 2021-10-02T11:47:13+02:00
+date: 2022-05-01T11:47:13+02:00
 draft: true
 ---
 

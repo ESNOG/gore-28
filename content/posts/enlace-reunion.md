@@ -1,5 +1,5 @@
 +++ 
-date = "2021-11-02"
+date = "2022-05-02"
 title = "Enlace a la reunion GORE28"
 slug = "gore28-link" 
 tags = []
