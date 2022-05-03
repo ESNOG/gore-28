@@ -60,10 +60,11 @@ RARE: Router for Academia, Research & Education
 Abstract
 
 *Charla en inglés*
+
 ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
 {{% /portfolio %}}  
 
-#### Digital Twin Network: Construyendo un gemelo digital de la red, Pere Barlet, UPC
+#### Digital Twin Network: Construyendo un gemelo digital de la red, Pere Barlet (UPC)
 {{% portfolio image="/gore28/img/esnog-logo-small.jpg" alt="UPC" %}}
 Abstract
 
@@ -88,7 +89,7 @@ Panel de discusion
 *PRESENTACION NO DISPONIBLE AUN*
 {{% /portfolio %}}  
 
-#### RIPE ATLAS: Cómo funcionan las sondas por SW?, Agustín Formoso, RIPE-NCC
+#### RIPE ATLAS: Cómo funcionan las sondas por SW?, Agustín Formoso (RIPE-NCC)
 {{% portfolio image="/gore28/img/RIPE_NCC_logo.png" alt="RIPE2" %}}
 Abstract
 
@@ -101,7 +102,7 @@ Abstract
 {{% /portfolio %}} 
 
 ### 16:30 - 18:00 CEST 
-#### Taller RIPE Atlas (RIPE Atlas hands-on session), Agustín Formoso, RIPE NCC
+#### Taller RIPE Atlas (RIPE Atlas hands-on session), Agustín Formoso (RIPE-NCC)
 {{% portfolio image="/gore28/img/RIPE_NCC_logo.png" alt="RIPE2" %}}
 Abstract 
 
@@ -153,11 +154,12 @@ Abstract
 ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
 {{% /portfolio %}}  
 
-#### Measuring RPKI ROV adoption with NetFlow, Doug Madory 
-{{% portfolio image="/gore28/img/DougMadory_FULL.jpg" alt="DMadory" %}}
+#### Measuring RPKI ROV adoption with NetFlow, Doug Madory (KENTIK)
+{{% portfolio image="/gore28/img/DougMadory-small.jpg" alt="DMadory" %}}
 Abstract
 
 *Charla en inglés*
+
 ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
 {{% /portfolio %}}  
 

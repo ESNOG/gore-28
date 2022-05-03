@@ -1,7 +1,7 @@
 +++ 
 draft = true
 date = 2022-05-03T16:52:57+02:00
-title = "Patrocinadores de la reunioN GORE-28 de ESNOG"
+title = "Patrocinadores de GORE-28"
 slug = "" 
 tags = []
 categories = []
@@ -9,11 +9,11 @@ thumbnail = "img/esnog-28-altxcf.png"
 description = ""
 +++
 
-### Amables patrocinadores de la reunion ESNOG GORE-28:
+Agradecemos a las siguientes entidades su amable patrocinio de la reunion numero 28 de ESNOG (GORE-28):
 
-- CATNIX (catnix.net)
-- DECIX
-- ESPANIX
-- IP Broker
-- RIPE
-- UPC
+- CATNIX (https://catnix.net)
+- DECIX (https://de-cix.net)
+- ESPANIX (https://espanix.net)
+- IP Broker (https://ipbroker.com)
+- RIPE  (https://ripe.net)     
+- UPC (https://upc.es)
