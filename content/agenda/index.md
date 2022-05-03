@@ -123,7 +123,7 @@ Abstract
 ### 9:30 - 11:00 CEST 
 #### Ronda de charlas de Puntos de intercambio de trafico (IXPs) 
 {{% portfolio image="/gore28/img/IX-talkers.jpg" alt="IXTALK" %}}
-Actualizaciones de los puntos neutros españoles (5 min. cada uno):
+Actualizaciones de los puntos neutros españoles:
 - Maria Isabel Gandia (CATNIX) ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
 - Javier Achirica (ESPANIX) ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
 - Marcos Sanz (DECIX) ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
