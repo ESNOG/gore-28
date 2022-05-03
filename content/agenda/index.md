@@ -47,8 +47,10 @@ Abstract
 ---------------------------
 
 ### 11:00-11:30  
-#### Café
 {{% portfolio image="/gore28/img/cup-of-coffee-icon-59-small.png" alt="coffee" %}}
+
+Pausa para Café (patrocinada por ESPANIX)
+
 {{% /portfolio %}} 
 
 ---------------------------
@@ -74,8 +76,10 @@ Abstract
 ---------------------------
 
 ### 13:30 - 14:30 CEST 
-#### Comida
 {{% portfolio image="/gore28/img/lunch-icon-small.png" alt="lunch" %}}
+
+COMIDA (patrocinada por ESPANIX)
+
 {{% /portfolio %}} 
 
 
@@ -97,8 +101,8 @@ Abstract
 {{% /portfolio %}}  
 
 ### 16:00 - 16:30  CEST
-#### Café
 {{% portfolio image="/gore28/img/cup-of-coffee-icon-59-small.png" alt="coffee" %}}
+Pausa para Café (patrocinada por ESPANIX)
 {{% /portfolio %}} 
 
 ### 16:30 - 18:00 CEST 
@@ -112,7 +116,9 @@ Abstract
 #### Pre-evento social
  
 ### 21:00 -  CEST
-#### Evento Social 
+{{% portfolio image="/gore28/img/party01-icon.png" alt="coffee" %}}
+**EVENTO SOCIAL** (patrocinada por ??????)
+{{% /portfolio %}} 
 
 ---------------------------
 
@@ -133,8 +139,8 @@ Actualizaciones de los puntos neutros españoles:
 ---------------------------
 
 ### 11:00 - 11:30 CEST
-#### Café
 {{% portfolio image="/gore28/img/cup-of-coffee-icon-59-small.png" alt="coffee" %}}
+Pausa para Café (patrocinada por ESPANIX)
 {{% /portfolio %}} 
 
 ---------------------------
