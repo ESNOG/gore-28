@@ -6,7 +6,7 @@ tags = []
 categories = []
 +++
 
-La reunión __GORE28__ el dia  __16 de Noviembre de 2021__ será __presencial con aforo limitado__, y podrá seguirse tambien a traves de Zoom Events y streaming por Youtube.
+La reunión __GORE28__ los dias  __12 y 13 de Mayo de 2022__ será __presencial con aforo limitado__, y podrá seguirse tambien a traves de Zoom Events y streaming por Youtube.
 
 El enlace para seguimiento en remoto se hará publico pocos dias antes de la reunión. _(Se recomienda actualizar a la ultima versión de la aplicación Zoom antes de la reunión)_
 
