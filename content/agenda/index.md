@@ -18,10 +18,10 @@ Agradecemos a la UPC su aportacion de espacio para la Reunion 28 de ESNOG
 ## Dia 12 de mayo de 2022
 ---------------------------
 ### 9:00 - 9:30 CEST 
-##### Registro y Bienvenida a  GORE-28
+##### Registro y Bienvenida
 {{% portfolio image="/gore28/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-Bienvenida a los asistentes e instrucciones sobre la reunion GORE-2
+Bienvenida a los asistentes e instrucciones sobre la reunion GORE-28
 {{% /portfolio %}}  
 
 ---------------------------
@@ -36,7 +36,7 @@ Abstract
 
 ---------------------------
 
-#### Mi red de gestión ideal, Carlos Fraga
+##### Mi red de gestión ideal, Carlos Fraga
 {{% portfolio image="/gore28/img/Carlos-fraga-small.jpg" alt="CFRAGA" %}}
 Abstract
 
@@ -56,7 +56,7 @@ Pausa para Café (patrocinada por ESPANIX)
 ---------------------------
 
 ### 11:30 - 13:30 CEST     
-#### RARE (Plataforma de routing software), Frédéric Loui (RENATER) 
+##### RARE (Plataforma de routing software), Frédéric Loui (RENATER) 
 {{% portfolio image="/gore28/img/esnog-logo-small.jpg" alt="RENATER" %}}
 RARE: Router for Academia, Research & Education 
 Abstract
@@ -66,7 +66,7 @@ Abstract
 ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
 {{% /portfolio %}}  
 
-#### Digital Twin Network: Construyendo un gemelo digital de la red, Pere Barlet (UPC)
+##### Digital Twin Network: Construyendo un gemelo digital de la red, Pere Barlet (UPC)
 {{% portfolio image="/gore28/img/pere_barlet_upc.jpeg" alt="UPC" %}}
 Abstract
 
@@ -86,14 +86,14 @@ COMIDA (patrocinada por ESPANIX)
 ---------------------------
 
 ### 14:30 - 16:00 CEST
-#### Debate: Extensión de nivel 2: GRE, VXLAN, ni muerto…
+##### Debate: Extensión de nivel 2: GRE, VXLAN, ni muerto…
 {{% portfolio image="/gore28/img/esnog-logo-small.jpg" alt="JPC1" %}}
 Panel de discusion
 
 *PRESENTACION NO DISPONIBLE AUN*
 {{% /portfolio %}}  
 
-#### RIPE ATLAS: Cómo funcionan las sondas por SW?, Agustín Formoso (RIPE-NCC)
+##### RIPE ATLAS: Cómo funcionan las sondas por SW?, Agustín Formoso (RIPE-NCC)
 {{% portfolio image="/gore28/img/agustin-formoso-small.jpg" alt="RIPE2" %}}
 Abstract
 
@@ -107,7 +107,7 @@ Pausa para Café _(patrocinada por ESPANIX)_
 {{% /portfolio %}} 
 
 ### 16:30 - 18:00 CEST 
-#### Taller RIPE Atlas (RIPE Atlas hands-on session), Agustín Formoso (RIPE-NCC)
+##### Taller RIPE Atlas (RIPE Atlas hands-on session), Agustín Formoso (RIPE-NCC)
 {{% portfolio image="/gore28/img/agustin-formoso-small.jpg" alt="RIPE2" %}}
 Abstract 
 
@@ -115,7 +115,7 @@ Abstract
 {{% /portfolio %}}  
 <img src="gore28/img/RIPE_NCC_logo.png" alt="demo" class="img-responsive">
 
-#### Pre-evento social
+##### Pre-evento social
  
 ### 21:00 -  CEST
 {{% portfolio image="/gore28/img/party01-icon.png" alt="coffee" %}}
@@ -127,10 +127,10 @@ Abstract
 ## Dia 13 de Mayo de 2022
 
 ### 9:00 - 9:30 CEST
-#### Registro y Bienvenida
+##### Registro y Bienvenida
 
 ### 9:30 - 11:00 CEST 
-#### Ronda de charlas de Puntos de intercambio de trafico (IXPs) 
+##### Ronda de charlas de Puntos de intercambio de trafico (IXPs) 
 {{% portfolio image="/gore28/img/IX-talkers.jpg" alt="IXTALK" %}}
 Actualizaciones de los puntos neutros españoles:
 - Maria Isabel Gandia (CATNIX) ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
@@ -148,21 +148,21 @@ Pausa para Café (patrocinada por ESPANIX)
 ---------------------------
 
 ### 11:30 - 13:00 CEST     
-#### Vyos (software routers): Arquitectura y casos de uso
+##### Vyos (software routers): Arquitectura y casos de uso
 {{% portfolio image="/gore28/img/esnog-logo-small.jpg" alt="RIPE2" %}}
 Abstract
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
 {{% /portfolio %}}  
 
-#### Soluciones ópticas para la última milla, Amedeo Beck-Peccoz
+##### Soluciones ópticas para la última milla, Amedeo Beck-Peccoz
 {{% portfolio image="/gore28/img/Amedeo_beck_FULL.jpg" alt="Amedeo" %}}
 Abstract
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
 {{% /portfolio %}}  
 
-#### Measuring RPKI ROV adoption with NetFlow, Doug Madory (KENTIK)
+##### Measuring RPKI ROV adoption with NetFlow, Doug Madory (KENTIK)
 {{% portfolio image="/gore28/img/DougMadory-small.jpg" alt="DMadory" %}}
 Abstract
 
@@ -171,6 +171,6 @@ Abstract
 ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
 {{% /portfolio %}}  
 
-#### A.O.B. y Concurso
+##### A.O.B. y Concurso
 
 ---------------------------
