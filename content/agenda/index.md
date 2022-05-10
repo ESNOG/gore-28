@@ -155,7 +155,7 @@ Abstract
 ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
 {{% /portfolio %}}  
 
-##### Soluciones ópticas para la última milla, Amedeo Beck-Peccoz
+##### Soluciones ópticas para la última milla, Amedeo Beck-Peccoz (Alturna Networks / Solid Optics)
 {{% portfolio image="/gore28/img/Amedeo_beck_FULL.jpg" alt="Amedeo" %}}
 Abstract
 
