@@ -56,21 +56,20 @@ Pausa para Café (patrocinada por ESPANIX)
 ---------------------------
 
 ### 11:30 - 13:30 CEST     
-##### RARE (Plataforma de routing software), Frédéric Loui (RENATER) 
-{{% portfolio image="/gore28/img/frederic-loui-rare2.png" alt="RENATER" %}}
-RARE: Router for Academia, Research & Education 
-"Frederic's has a background in embedded system engineering. He started his career in 1998 as a software/network engineer he joined RENATER in 2007 as network architect. Since 2013, he is leading Innovation initiatives and is actively taking part of GÉANT projects and started technical coordination of projects such as RARE (https://wiki.geant.org/display/RARE) and NMaaS https://wiki.geant.org/display/NMaaS. "
 
-*Charla en inglés*
-
-([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
-{{% /portfolio %}}  
 
 ##### Digital Twin Network: Construyendo un gemelo digital de la red, Pere Barlet (UPC)
 {{% portfolio image="/gore28/img/pere_barlet_upc.jpeg" alt="UPC" %}}
 Las redes son sistemas complejos de gestionar. Otros sectores industriales están empezando a adoptar el paradigma de gemelo digital (Digital Twin) para el modelado de sistemas complejos. Un gemelo digital es una representación virtual de un objeto, sistema o proceso físico. En esta charla discutiremos como construir un gemelo digital de la red (Digital Twin Network), cuáles son sus aplicaciones para un operador de red y cómo podemos aprovechar los avances recientes en el campo de la inteligencia artificial para desarrollar uno.
 
 ([*PRESENTACION*](/esnog28/archivos/Pere-Barlet-upc-digital-twin-esnog28.pdf))
+{{% /portfolio %}}  
+
+##### RIPE ATLAS: Cómo funcionan las sondas por SW?, Agustín Formoso (RIPE-NCC)
+{{% portfolio image="/gore28/img/agustin-formoso-small.jpg" alt="RIPE2" %}}
+Abstract
+
+([*PRESENTACION*](/esnog28/archivos/Agustin-Formoso-esnog28.pdf))
 {{% /portfolio %}}  
 
 ---------------------------
@@ -93,13 +92,15 @@ Panel de discusion
 *PRESENTACION NO DISPONIBLE AUN*
 {{% /portfolio %}}  
 
-##### RIPE ATLAS: Cómo funcionan las sondas por SW?, Agustín Formoso (RIPE-NCC)
-{{% portfolio image="/gore28/img/agustin-formoso-small.jpg" alt="RIPE2" %}}
-Abstract
+##### RARE (Plataforma de routing software), Frédéric Loui (RENATER) 
+{{% portfolio image="/gore28/img/frederic-loui-rare2.png" alt="RENATER" %}}
+RARE: Router for Academia, Research & Education 
+"Frederic's has a background in embedded system engineering. He started his career in 1998 as a software/network engineer he joined RENATER in 2007 as network architect. Since 2013, he is leading Innovation initiatives and is actively taking part of GÉANT projects and started technical coordination of projects such as RARE (https://wiki.geant.org/display/RARE) and NMaaS https://wiki.geant.org/display/NMaaS. "
 
-([*PRESENTACION*](/esnog28/archivos/Agustin-Formoso-esnog28.pdf))
+*Charla en inglés*
+
+([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
 {{% /portfolio %}}  
-<img class="special-img-class" src="/img/RIPE_NCC_logo.png"/>
 
 ### 16:00 - 16:30  CEST
 {{% portfolio image="/gore28/img/cup-of-coffee-icon-59-small.png" alt="coffee" %}}
@@ -111,7 +112,7 @@ Pausa para Café _(patrocinada por ESPANIX)_
 {{% portfolio image="/gore28/img/agustin-formoso-small.jpg" alt="RIPE2" %}}
 Abstract 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+([*PRESENTACION NO DISPONIBLE*](/esnog28/archivos/esnog.pdf))
 {{% /portfolio %}}  
 <img src="gore28/img/RIPE_NCC_logo.png" alt="demo" class="img-responsive">
 
