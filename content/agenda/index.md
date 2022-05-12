@@ -31,7 +31,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion GORE-28
 {{% portfolio image="/gore28/img/joao-damas-thumb.jpeg" alt="JDAMAS" %}}
 Abstract
 
-([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/JoaoDamas-2022-04-06-rpki-esnog28.pdf))
 {{% /portfolio %}}  
 
 ---------------------------
@@ -70,7 +70,7 @@ RARE: Router for Academia, Research & Education
 {{% portfolio image="/gore28/img/pere_barlet_upc.jpeg" alt="UPC" %}}
 Las redes son sistemas complejos de gestionar. Otros sectores industriales están empezando a adoptar el paradigma de gemelo digital (Digital Twin) para el modelado de sistemas complejos. Un gemelo digital es una representación virtual de un objeto, sistema o proceso físico. En esta charla discutiremos como construir un gemelo digital de la red (Digital Twin Network), cuáles son sus aplicaciones para un operador de red y cómo podemos aprovechar los avances recientes en el campo de la inteligencia artificial para desarrollar uno.
 
-([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/Pere-Barlet-upc-digital-twin-esnog28.pdf))
 {{% /portfolio %}}  
 
 ---------------------------
@@ -97,7 +97,7 @@ Panel de discusion
 {{% portfolio image="/gore28/img/agustin-formoso-small.jpg" alt="RIPE2" %}}
 Abstract
 
-([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/Agustin-Formoso-esnog28.pdf))
 {{% /portfolio %}}  
 <img class="special-img-class" src="/img/RIPE_NCC_logo.png"/>
 
