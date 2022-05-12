@@ -114,7 +114,8 @@ Abstract
 
 ([*PRESENTACION NO DISPONIBLE*](/esnog28/archivos/esnog.pdf))
 {{% /portfolio %}}  
-<img src="gore28/img/RIPE_NCC_logo.png" alt="demo" class="img-responsive">
+
+<img src="/gore28/img/RIPE_NCC_logo.png" alt="demo" class="img-responsive">
 
 ##### Pre-evento social
  
