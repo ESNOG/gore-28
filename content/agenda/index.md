@@ -1,6 +1,6 @@
 ---
 title: "Agenda ESNOG 28"
-date: 2021-11-11
+date: 2022-05-12
 draft: true 
 ---
 
