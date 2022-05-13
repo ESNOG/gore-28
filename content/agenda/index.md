@@ -153,7 +153,7 @@ Pausa para Café (patrocinada por ESPANIX)
 {{% portfolio image="/gore28/img/FernandoMaidanaVyOS.jpg" width="128px" alt="RIPE2" %}}
 Abstract
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore28/archivos/VyOS-presentacion-ESNOG_GORE28.pptx))
+([**PRESENTACION**](/gore28/archivos/VyOS-presentacion-ESNOG_GORE28.pptx))
 {{% /portfolio %}}  
 
 ##### Soluciones ópticas para la última milla, Amedeo Beck-Peccoz (Alturna Networks / Solid Optics)
