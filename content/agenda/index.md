@@ -136,8 +136,8 @@ Abstract
 {{% portfolio image="/gore28/img/IX-talkers.jpg" alt="IXTALK" %}}
 Actualizaciones de los puntos neutros españoles:
 - Maria Isabel Gandia (CATNIX) ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
-- Javier Achirica (ESPANIX) ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
-- Marcos Sanz (DECIX) ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+- Javier Achirica (ESPANIX) ([*PRESENTACION*](/gore28/archivos/ESPANIX-ESNOG-28.pdf))
+- Marcos Sanz (DECIX) ([*PRESENTACION*](/gore28/archivos/20220513-ESNOG28-DE-CIX.pdf))
 {{% /portfolio %}}  
 
 ---------------------------
@@ -161,7 +161,7 @@ Abstract
 {{% portfolio image="/gore28/img/Amedeo_beck_FULL.jpg" alt="Amedeo" %}}
 Abstract
 
-([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+([*PRESENTACION*](/gore28/archivos/Amede0-220513-ESNOG28.pdf))
 {{% /portfolio %}}  
 
 ##### Measuring RPKI ROV adoption with NetFlow, Doug Madory (KENTIK)
