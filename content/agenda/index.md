@@ -31,7 +31,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion GORE-28
 {{% portfolio image="/gore28/img/joao-damas-thumb.jpeg" alt="JDAMAS" %}}
 Abstract
 
-([*PRESENTACION*](/esnog28/archivos/JoaoDamas-2022-04-06-rpki-esnog28.pdf))
+([**PRESENTACION**](/esnog28/archivos/JoaoDamas-2022-04-06-rpki-esnog28.pdf))
 {{% /portfolio %}}  
 
 ---------------------------
@@ -62,14 +62,14 @@ Pausa para Café (patrocinada por ESPANIX)
 {{% portfolio image="/gore28/img/pere_barlet_upc.jpeg" alt="UPC" %}}
 Las redes son sistemas complejos de gestionar. Otros sectores industriales están empezando a adoptar el paradigma de gemelo digital (Digital Twin) para el modelado de sistemas complejos. Un gemelo digital es una representación virtual de un objeto, sistema o proceso físico. En esta charla discutiremos como construir un gemelo digital de la red (Digital Twin Network), cuáles son sus aplicaciones para un operador de red y cómo podemos aprovechar los avances recientes en el campo de la inteligencia artificial para desarrollar uno.
 
-([*PRESENTACION*](/esnog28/archivos/Pere-Barlet-upc-digital-twin-esnog28.pdf))
+([**PRESENTACION**](/esnog28/archivos/Pere-Barlet-upc-digital-twin-esnog28.pdf))
 {{% /portfolio %}}  
 
 ##### RIPE ATLAS: Cómo funcionan las sondas por SW?, Agustín Formoso (RIPE-NCC)
 {{% portfolio image="/gore28/img/agustin-formoso-small.jpg" alt="RIPE2" %}}
 Abstract
 
-([*PRESENTACION*](/esnog28/archivos/Agustin-Formoso-esnog28.pdf))
+([**PRESENTACION**](/esnog28/archivos/Agustin-Formoso-esnog28.pdf))
 {{% /portfolio %}}  
 
 ---------------------------
@@ -112,7 +112,6 @@ Pausa para Café _(patrocinada por ESPANIX)_
 {{% portfolio image="/gore28/img/agustin-formoso-small.jpg" alt="RIPE2" %}}
 Abstract 
 
-([*PRESENTACION NO DISPONIBLE*](/esnog28/archivos/esnog.pdf))
 {{% /portfolio %}}  
 
 <img src="/gore28/img/RIPE_NCC_logo.png" alt="demo" class="img-responsive">
@@ -161,7 +160,7 @@ Abstract
 {{% portfolio image="/gore28/img/Amedeo_beck_FULL.jpg" alt="Amedeo" %}}
 Abstract
 
-([*PRESENTACION*](/gore28/archivos/Amede0-220513-ESNOG28.pdf))
+([**PRESENTACION**](/gore28/archivos/Amede0-220513-ESNOG28.pdf))
 {{% /portfolio %}}  
 
 ##### Measuring RPKI ROV adoption with NetFlow, Doug Madory (KENTIK)
