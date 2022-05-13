@@ -149,11 +149,11 @@ Pausa para Café (patrocinada por ESPANIX)
 ---------------------------
 
 ### 11:30 - 13:00 CEST     
-##### Vyos (software routers): Arquitectura y casos de uso
-{{% portfolio image="/gore28/img/esnog-logo-small.jpg" alt="RIPE2" %}}
+##### Vyos (software routers): Arquitectura y casos de uso, Fernando Maidana
+{{% portfolio image="/gore28/img/FernandoMaidanaVyOS.jpg" width="128px" alt="RIPE2" %}}
 Abstract
 
-([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/gore28/archivos/VyOS-presentacion-ESNOG_GORE28.pptx))
 {{% /portfolio %}}  
 
 ##### Soluciones ópticas para la última milla, Amedeo Beck-Peccoz (Alturna Networks / Solid Optics)
